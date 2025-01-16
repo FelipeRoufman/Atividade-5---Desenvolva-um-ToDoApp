@@ -1,0 +1,57 @@
+body {
+    background-color: #0c0c0d;
+    color: #cdb27b;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: #8b7d73;
+}
+
+button {
+    background-color: #3f3d47;
+    color: #cdb27b;
+    border: 1px solid #8b7d73;
+}
+
+button:hover {
+    background-color: #8b7d73;
+    color: #0c0c0d;
+}
+
+input {
+    background-color: #3f3d47;
+    color: #cdb27b;
+    border: 1px solid #8b7d73;
+}
+
+input::placeholder {
+    color: #8b7d73;
+}
+
+#avatarMessage {
+    color: #8b7d73;
+}
+
+#taskList li {
+    border-bottom: 1px solid #8b7d73;
+}
+
+#taskList li span {
+    color: #cdb27b;
+}
+
+#taskList li button {
+    background-color: #3f3d47;
+    color: #cdb27b;
+    border: 1px solid #8b7d73;
+}
+
+#taskList li button:hover {
+    background-color: #8b7d73;
+    color: #0c0c0d;
+}
+
+span {
+    color: #cdb27b;
+}
